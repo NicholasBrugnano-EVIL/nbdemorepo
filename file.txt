@@ -1,2 +1,3 @@
 It prints money!!!!!!!
 (switch 2 will not print as much money but hey, it prints money!!!!!!)
+ps6 will not print money. ps6 will have no games
