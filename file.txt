@@ -1,1 +1,2 @@
 It prints money!!!!!!!
+(switch 2 will not print as much money but hey, it prints money!!!!!!)
